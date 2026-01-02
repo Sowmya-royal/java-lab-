@@ -1,6 +1,6 @@
-#EXPERIMENT 1
+# EXPERIMENT 1
 ## TITfLE :1a.)Display primitive Datatypes
-` ` `
+```
 class Datatypes{
 static bytes b:
 static short s;
@@ -20,7 +20,6 @@ system.out.println("double:"+d);
 system.out.println("boolean:"+bool);
 }
 }
-```
 ```
 # OUTPUT
 ![output of rimitie](exp1a.PNG)
