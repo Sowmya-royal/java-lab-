@@ -22,4 +22,4 @@ system.out.println("boolean:"+bool);
 }
 ```
 # OUTPUT
-![output of rimitie](exp1a.jpeg)
+![output of rimitie](exp1a.JPEG)
